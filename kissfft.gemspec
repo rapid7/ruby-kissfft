@@ -2,10 +2,10 @@
 
 Gem::Specification.new do |s|
   s.name        = "kissfft"
-  s.version     = "0.0.1"
+  s.version     = "0.0.2"
   s.authors     = ["HD Moore"]
   s.email       = ["hdm@rapid7.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/rapid7/ruby-kissfft"
   s.summary     = %q{Ruby wrapper around the KisFFT library for performing FFTs}
   s.description = %q{Provides access to the KissFFT library for performing fast-fourier transforms from Ruby }
 
